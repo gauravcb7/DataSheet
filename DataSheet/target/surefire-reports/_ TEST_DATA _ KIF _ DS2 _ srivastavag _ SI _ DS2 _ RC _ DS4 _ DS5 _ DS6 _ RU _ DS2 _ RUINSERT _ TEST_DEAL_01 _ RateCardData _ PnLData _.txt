@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: | TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 1, Time elapsed: 0 sec - in | TEST_DATA | KIF | DS2 | srivastavag | SI | DS2 | RC | DS4 | DS5 | DS6 | RU | DS2 | RUINSERT | TEST_DEAL_01 | RateCardData | PnLData |
